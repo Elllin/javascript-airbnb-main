@@ -18,7 +18,7 @@
 .reservation .reservation__content {
   position: absolute;
   top: 50%;
-  left: 24px;
+  left: 40px;
   margin-top: -250px;
   padding: 24px 20px 28px;
   width: 460px;
@@ -86,6 +86,8 @@
   font-size: 15px;
   color: #fff;
   font-weight: bold;
+  text-indent: 0;
+  line-height: 0;
   cursor: pointer;
 }
 
@@ -98,7 +100,7 @@
     width: 100%;
   }
   .review__room-img {
-    width: 100%;
+    width: 80%;
   }
 }
 
